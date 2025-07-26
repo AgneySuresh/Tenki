@@ -33,11 +33,17 @@
 ## 📁 Folder Structure (Simplified)
 
 ```
-tenki/
+Tenki/
 ├── assets/
-│   └── images/
-│       └── bg.png
+│   └── fonts/
+│   └── icon/
 ├── lib/
+│   └── models/
+│       └── weather_model.dart
+│   └── pages/
+│       └── weather_page.dart
+│   └── services/
+│       └── weather_service.dart
 │   └── main.dart
 ├── pubspec.yaml
 ├── README.md
