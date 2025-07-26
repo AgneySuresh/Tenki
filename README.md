@@ -1,4 +1,4 @@
-# Tenki ☁️
+# Tenki. ☁️
 
 **Tenki** is a minimal weather app built using Flutter. It shows current weather details like temperature, condition, and location in a soft and modern UI.
 ---
@@ -11,7 +11,7 @@
 ---
 ## 🖼️ Screenshots
  
-> ![Screenshot]()
+> ![Screenshot](example.png)
 ---
 ## 🧱 Tech Stack
 
